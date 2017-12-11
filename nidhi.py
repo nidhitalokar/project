@@ -1,2 +1,2 @@
-print ("Hello this is my first program")
-print ("My name is Nidhi Talokar")
+print ("Hello this is not my first program")
+print ("My name is Harsh Sharma")
